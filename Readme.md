@@ -73,7 +73,7 @@ We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.
 
 ## 📞 Contact
 
-For questions or support, please open an issue or contact us at [kizuservices@gmail.com](mailto:kizuservices@gmail.com).
+For questions or support, please open an issue or contact us at [kizuservices@gmail.com](mailto:kizuservices@gmail.com)
 
 ---
 
